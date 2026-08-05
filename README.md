@@ -4,6 +4,7 @@ Portfolio showcasing SQL, Python, Power BI, PySpark, Excel, and Machine Learning
 ## SQL Projects
 - Credit Card Transaction Analysis
 - Ecommerce Analysis
+- Netflix SQL Analysis
 
 ## Python Projects
 
